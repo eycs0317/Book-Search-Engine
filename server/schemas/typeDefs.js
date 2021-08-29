@@ -19,5 +19,8 @@ const typeDefs = gql`
     saveBooks: [Book]
   }
 
+    type Query {
+
+    }
 
   `;
