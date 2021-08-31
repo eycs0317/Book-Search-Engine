@@ -15,7 +15,7 @@
 
   ## Deployed Link
 
-  [Heroku Link](https://protected-brushlands-01106.herokuapp.com/)
+  [Heroku Link](https://salty-ridge-65218.herokuapp.com/)
 
   ## License
   [MIT License](https://opensource.org/licenses/MIT)
